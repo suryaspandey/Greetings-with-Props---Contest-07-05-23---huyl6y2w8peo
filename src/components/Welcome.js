@@ -1,6 +1,6 @@
 // write code for Welcome component here
 
-export default Welcome;
+// export default Welcome;
 
 function Welcome(props) {
     return (
@@ -10,3 +10,5 @@ function Welcome(props) {
         </div>
     );
 }
+export default Welcome;
+
